@@ -1,6 +1,6 @@
 {
   "name": "web-spawn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Provides communication and interaction with server-side processes from the client-side through web sockets.",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,14 @@
   "license": "MIT",
   "dependencies": {
     "node-minify": "^1.1.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/athleticus/web-spawn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/athleticus/web-spawn/issues"
+  },
+  "homepage": "https://github.com/athleticus/web-spawn"
 }
