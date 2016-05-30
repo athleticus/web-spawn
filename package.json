@@ -4,8 +4,7 @@
   "description": "Provides communication and interaction with server-side processes from the client-side through web sockets.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "install": "node ./bin/min"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "socket",
