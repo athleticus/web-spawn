@@ -1,6 +1,6 @@
 {
   "name": "web-spawn",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Provides communication and interaction with server-side processes from the client-side through web sockets.",
   "main": "index.js",
   "scripts": {
